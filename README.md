@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YakubuLute
-- 👀 I’m interested in React and Flutter
+- 👀 I’m interested in React, Django and Flutter
 - 🌱 I’m currently learning Alan AI
 - 💞️ I’m looking to collaborate on any Machine Learning Project
 - 📫 How to reach me yakubulute@outlook.com
