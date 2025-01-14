@@ -3,10 +3,10 @@
 Full-stack engineer passionate about crafting exceptional digital experiences through code. I thrive on turning complex problems into elegant solutions.
 
 ## 💻 Tech Stack
-- **Frontend:** React.js, Next.js, Vue.js
+- **Frontend:** React.js, Next.js, Vue.js, React Native
 - **Mobile:** Flutter
-- **Backend:** Java, Python, Django
-- **Currently Exploring:** Alan AI & Machine Learning
+- **Backend:** Java, Python, Django, Dart
+- **Currently Exploring:**  Machine Learning and Blockchain
 
 ## 🚀 What I Do
 - Build scalable web applications with modern JavaScript frameworks
